@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # These notes are just for me. They're about the configurations I've made to feel comfortable. It's just a big reminder so I don't have to look up things constantly, if I, for the life of me, can't remember something.
 
 
@@ -23,7 +22,6 @@ Configuration - .Xresources
 ctrl+c/v can be obtained by installing gvim
 	install vim-gtk
 
-=======
 # sudo access to initial user
 change to root
   su
@@ -32,7 +30,7 @@ execute usermod
   usermod -aG sudo $USER
 change back to user
   su $USER
-  
+
 # These notes are just for me. They're about the configurations I've made to feel comfortable. It's just a big reminder so I don't have to look up things constantly, if I, for the life of me, can't remember something.
 
 
@@ -57,7 +55,6 @@ Configuration - .Xresources
 ctrl+c/v can be obtained by installing gvim
 	install vim-gtk
 
-=======
 # sudo access to initial user
 change to root
   su
@@ -66,4 +63,3 @@ execute usermod
   usermod -aG sudo $USER
 change back to user
   su $USER
->>>>>>> 7d4804ec6dc0279467738c349c71089f84e229be
