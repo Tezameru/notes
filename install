@@ -1,0 +1,18 @@
+    1  sudo apt get install i3
+    3  sudo apt install i3
+    6  sudo apt install git
+   15  sudo apt install vim
+   16  sudo apt install vim-gtk3
+   32  # installed.
+  168  sudo apt install nm-applet
+  170  sudo apt install iwlwifi
+  174  sudo apt install iwlwifi
+  184  sudo apt install firmware-iwlwifi 
+  189  sudo apt install rxvt-unicode
+  199  sudo apt install curl
+  219  sudo apt install thunderbird
+  230  sudo apt install rofi
+  231  sudo apt install compton feh screen
+  233  sudo apt install fonts-inconsolata 
+  234  sudo apt install feh
+  236  history | grep install >> ~/notes/install
