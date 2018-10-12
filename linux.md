@@ -63,3 +63,8 @@ execute usermod
   usermod -aG sudo $USER
 change back to user
   su $USER
+
+
+# Notes from the book "The Linux Command Line" from William E. Shotts Jr.
+
+
